@@ -24,7 +24,6 @@
 %>
 <%=
     new java.util.Date()
-
 %>
 
 </body>
